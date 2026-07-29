@@ -1,1 +1,2 @@
-# Dissertation-
+This is a Dissertation which I have done for the completion of my undergraduate course. This is a questionnaire based survey project titled "Assessment of Students Engagement and Choice Based Credit System (CBCS) Effectiveness at Patna University". 
+The objective of this project is to understand the working and to analyse how much is its implementation in the Patna University is effective for its students.
